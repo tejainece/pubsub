@@ -1,4 +1,4 @@
-import 'package:pubsub/pubsub.dart';
+import 'package:simple_pubsub/simple_pubsub.dart';
 
 main() async {
   final pubsub = PubSub<String>();
